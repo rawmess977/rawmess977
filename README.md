@@ -5,10 +5,17 @@
 <div align="center">
   <h3>Web Developer</h3>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proficient in <strong>React</strong> and <strong>Next.js</strong>&nbsp;✔</p>
- 
   
+</div>
+<div align="center">
+  <h3> 
+      🤝 Let's Connect
+  </h3>
+  <a href="mailto:rawmess977@gmail.com">📧 Send me an Email </a>
+&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rawmess977/">📫 Connect on LinkedIn </a>
+  &nbsp;&nbsp;&nbsp;
 
-  
 </div><br /><br />
 
 <table>
@@ -39,7 +46,3 @@
     <img src="https://i.postimg.cc/SKTNNq7T/goku.png"/>
   </td>
 </table>
-
-<div align="center">
-  <img src="https://i.postimg.cc/s2FrgXtg/footer.gif">
-</div>
